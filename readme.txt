@@ -4,3 +4,4 @@ Git is very good
 Hello Git
 Hello Git2
 Hello Git3
+Create branch is very fast
